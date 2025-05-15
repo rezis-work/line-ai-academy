@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Learning Content Generator
+
+This project features an AI system that automatically creates educational content, including YouTube videos, to facilitate learning on various topics.
+
+## Features
+
+- 🎥 Automated YouTube video generation
+- 📚 Curated educational content
+- 🤖 AI-powered research and content creation
+- 🎨 Automatic visuals and animations
+- 🔊 Text-to-speech narration
+
+## How It Works
+
+1. The AI analyzes learning objectives and target audience
+2. Researches and synthesizes information from reliable sources
+3. Creates structured lesson plans and scripts
+4. Generates visuals, animations, and narration
+5. Compiles everything into engaging video content
 
 ## Getting Started
 
-First, run the development server:
+To use this system:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Provide your learning topic or area of interest
+2. Specify any preferences (difficulty level, style, etc.)
+3. Let the AI generate customized learning materials
+4. Review and share the created content
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Examples
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The system can create content on:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Science and technology tutorials
+- Language learning materials
+- Historical documentaries
+- Math problem-solving guides
+- Professional skill development courses
 
-## Learn More
+## Contribution
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+We welcome contributions to improve the AI's content generation capabilities!
